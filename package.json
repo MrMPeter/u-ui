@@ -1,7 +1,11 @@
 {
-  "name": "u-ui",
+  "name": "mpz-ui",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "main": "dist/u-ui.umd.min.js",
+  "author": {
+    "name": "马培志"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
